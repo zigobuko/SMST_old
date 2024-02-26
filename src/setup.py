@@ -1,6 +1,6 @@
 from cx_Freeze import setup, Executable
 
-version_nr = "0.5.7"
+version_nr = "1.0.0"
 
 setup(
     name="SMST",
