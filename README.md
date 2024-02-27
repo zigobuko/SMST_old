@@ -27,7 +27,7 @@ This tool eliminates the need to use Postman and allows test engineers to focus 
 Run in Terminal.app:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/zigobuko/test_22-02-2024/main/download_latest_release.sh | bash
+curl -sSL https://raw.githubusercontent.com/zigobuko/SMST/main/download_latest_release.sh | bash
 ```
 
 The latest version of the application will be downloaded to your Downloads folder.  
