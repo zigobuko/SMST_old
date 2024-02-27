@@ -31,7 +31,9 @@ curl -sSL https://raw.githubusercontent.com/zigobuko/test_22-02-2024/main/downlo
 ```
 
 The latest version of the application will be downloaded to your Downloads folder.  
-You can run the application directly from the Downloads folder or move it to your preferred location (e.g. desktop).
+You can run the application directly from the Downloads folder or move it to your preferred location (e.g. desktop).  
+<br/><br/>
+__Note__: The application is compatible only with machines with Apple silicon processors.
 
 <br/><br/>
 
